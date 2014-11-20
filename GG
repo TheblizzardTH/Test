@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Document</title>
+  <style>
+ @Media screen and (max-width:800px;){
+ .Mydiv{
+ width:500;
+ height:600;
+ background:#0000ff;}}
+ @Media screen and (max-width:801px;){
+ .Mydiv{
+ width:900;
+ height:400;
+ background:#0000ff;
+ }
+ }
+ </style>
+ </head>
+ <body>
+  <div class="mydiv">Test</div>
+ </body>
+</html>
